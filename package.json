@@ -1,0 +1,18 @@
+{
+  "name": "steam-bot-template",
+  "version": "1.0.0",
+  "description": "Steam Bot template!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kladdkaka",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "steam-totp": "^2.0.1",
+    "steam-tradeoffer-manager": "^2.9.3",
+    "steam-user": "^3.24.0",
+    "steamcommunity": "^3.33.2"
+  }
+}
